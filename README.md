@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on TeleSynergy<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about engineering<br><br>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img left="center"  src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=A896F7&background=FFFFFF00&center=true&random=false&width=435&lines=Hi+Mate+!!!;***+This+is+Sahir+Ahmed+***&center=true&size=26" alt="Typing SVG">
+  </a>
+</h1>
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## 🌐 Socials:
