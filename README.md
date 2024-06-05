@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on TeleSynergy<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about engineering<br><br>
 
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahir-ahmed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sahir-Ahmed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sahir-ahmed) 
