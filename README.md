@@ -19,7 +19,7 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=thesahirahmed&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thesahirahmed&theme=midnight-purple&hide_border=false) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesahirahmed&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=thesahirahmed&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesahirahmed&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=thesahirahmed&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) |
 
 
 
