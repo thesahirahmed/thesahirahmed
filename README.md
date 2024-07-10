@@ -1,4 +1,4 @@
-# 💫 About ME:
+# 💫 About Me:
 🔭 I’m currently working on TeleSynergy<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning Data Structures and Algorithms, Networking<br>💬 Ask me about engineering<br><br>
 
 <h1 align="center">
