@@ -11,7 +11,7 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700"/>
 </div>
 
-## 🌐 Socials
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahir-ahmed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sahir-Ahmed) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sahir-ahmed) 
 
 # 💻 Tech Stack:
