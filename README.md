@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700"/>
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="700"/>
 </div>
 
 ## 🌐 Socials:
